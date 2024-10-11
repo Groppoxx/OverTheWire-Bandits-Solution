@@ -107,6 +107,8 @@ Finalmente, fuimos capaces de obtener la `flag` y aprendimos cómo utilizar ruta
 
 </aside>
 
+---
+
 ## 0️⃣[Bandit0](https://github.com/Groppoxx/OverTheWire-Bandits-Solution.git)
 
 ## 2️⃣[Bandit2](https://github.com/Groppoxx/OverTheWire-Bandits-Solution.git)
