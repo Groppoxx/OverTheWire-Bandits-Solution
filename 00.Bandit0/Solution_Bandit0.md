@@ -68,7 +68,7 @@ Como resultado de nuestro esfuerzo logramos encontrar la `flag`, la cual nos per
 
 ---
 
-## 1️⃣[Bandit1](https://github.com/Groppoxx/OverTheWire-Bandits-Solution.git)
+## 1️⃣[Bandit1](https://github.com/Groppoxx/OverTheWire-Bandits-Solution/blob/main/01.Bandit1/Solution_Bandit1.md)
 
 ```bash
 password: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
