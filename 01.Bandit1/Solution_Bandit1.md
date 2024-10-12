@@ -109,7 +109,7 @@ Finalmente, fuimos capaces de obtener la `flag` y aprendimos cómo utilizar ruta
 
 ---
 
-## 2️⃣[Bandit2](https://github.com/Groppoxx/OverTheWire-Bandits-Solution.git)
+## 2️⃣[Bandit2](https://github.com/Groppoxx/OverTheWire-Bandits-Solution/blob/main/02.Bandit2/Solution_Bandit2.md)
 
 ```bash
 password: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
